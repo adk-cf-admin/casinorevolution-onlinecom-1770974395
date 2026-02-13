@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#050505",
+            "lang-select-color": "#222829",
+            "bg-light": "#050505",
+            "welcome-bonus-bg": "#050505",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#1d1d1d",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#E6171D",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#E6171D",
+            "yellow-button": "#74EEFF",
+            "button-text": "#ffffff",
+            "main-button-text": "#000000",
+            "border-color": "#efefdc",
+            "casino-cards": "#050505",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#ffffff",
+            "providers-back": "#050505",
+            "faq-label": "#050505",
+            "bg-footer": "#050505",
+            "copyright": "#e7e7d5",
+            "starColor": "#E6171D",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3003"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3004",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Revolution Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3005",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Revolution"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-au-en-AU",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "AU",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Revolution",
+                    "title": "Revolution — Best Online Casino Australia | A$500 + 200 Spins",
+                    "description": "Play at Revolution Casino Australia with 4000+ pokies, live dealers & sports betting. Claim 100% bonus up to A$500 + 200 free spins. Licensed & secure!\n",
+                    "canonical": "casinorevolution-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3006",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casinorevolution-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3007"
+                },
+                "hero": {
+                    "title": "Australia's Premier Online Casino & Betting Platform",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3008",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3009",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a trusted online casino in Australia? We operate with advanced SSL encryption, certified RNG gaming, and instant payouts via Australian payment methods. Here's what makes us the top choice for Aussie players:\n",
+                    "items": [
+                        "Licensed platform with SSL 256-bit encryption protecting 100% transactions",
+                        "4000+ certified games: pokies, blackjack, roulette, baccarat, live dealers",
+                        "Instant deposits via POLi, bank transfer, Visa, Mastercard, e-wallets",
+                        "24\/7 customer support in English via live chat responding under 60 seconds",
+                        "Fast withdrawals processed within 24-48 hours to Australian accounts",
+                        "Welcome bonus: 100% up to A$500 + 200 free spins with 35x wagering"
+                    ],
+                    "advantagesAfterText": "Join over 50,000 satisfied Australian players enjoying secure gaming with certified fair play. Our dedicated support team assists you 24\/7\/365 in English.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Revolution App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3010",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Revolution App",
+                    "mobileGooglePlayImageTitle": "Revolution App",
+                    "mobileIosImageTitle": "Revolution App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Revolution Casino Australia",
+                        "description1": "We've served Australian players for over a decade with certified gaming and SSL encryption. Our platform features 4000+ pokies and table games from leading providers, designed specifically for the Australian market with local payment support.\n",
+                        "items": [
+                            "Expanded gaming portfolio to over 4000 certified pokies and table games",
+                            "Introduced live dealer studios with professional English-speaking croupiers",
+                            "Integrated Australian payment methods: POLi, bank transfers, major cards",
+                            "Achieved 24\/7 customer support milestone with under 60-second response time"
+                        ],
+                        "description2": "We operate with SSL 256-bit encryption protecting all transactions and data. Our gaming software undergoes regular independent audits ensuring RNG fairness and compliance with international gaming standards and Anti Money Laundering regulations.\nWe keep expanding our game selection for Aussie players. Our responsible gaming tools including self-exclusion and deposit limits make us the trusted choice. Join us today and experience premium online casino entertainment!\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3011",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": ""
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Complete Gaming Portfolio for Australian Players",
+                        "description": "<h2>Extensive Game Collection Designed for Australian Casino Enthusiasts<\/h2>\n\n<p>Our gaming platform showcases over 4,000 licensed casino games specifically curated for Australian players seeking authentic online entertainment. We've partnered with industry-leading software providers to deliver premium pokies, classic table games, immersive live dealer experiences, and exclusive titles unavailable elsewhere. Every game undergoes rigorous testing by independent auditors ensuring Random Number Generator fairness, certified Return to Player percentages, and compliance with international gaming standards. Australian players enjoy seamless gameplay across desktop and mobile devices, with instant-load technology eliminating lengthy download requirements. Whether you're chasing progressive jackpots reaching millions, enjoying low-stakes casual spins, or seeking high-roller tables with substantial betting limits, our diverse portfolio caters to every preference and bankroll size.<\/p>\n\n<h3>Premium Pokies Selection with Aussie Favorites<\/h3>\n\n<p>Our pokies library features over 3,500 certified slot machines spanning classic three-reel fruit machines, modern five-reel video slots, and innovative megaways mechanics offering up to 117,649 ways to win. Australian players particularly enjoy our collection of locally-themed pokies celebrating iconic Australian culture, wildlife, and landmarks. Each pokie displays its certified RTP percentage transparently, with most titles offering between 95.5% and 98.2% return rates. Betting ranges accommodate all player types, from minimum spins at A$0.10 up to maximum bets reaching A$500 per spin on high-volatility titles. Popular features include expanding wilds, cascading reels, multiplier symbols, free spin bonus rounds with retriggering capabilities, and gamble features doubling your wins.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Classic Pokies:<\/strong> Traditional three-reel slots featuring fruit symbols, BAR icons, lucky sevens, and bells. These nostalgic games offer straightforward gameplay with RTPs between 96.0% and 97.5%, perfect for players appreciating vintage casino atmosphere. Betting starts from A$0.10 with maximum wins up to 5,000x your stake.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Video Pokies:<\/strong> Modern five-reel slots with stunning HD graphics, animated symbols, cinematic soundtracks, and engaging storylines. Popular themes include ancient civilizations, mythology, adventure quests, fantasy worlds, and movie franchises. These games feature 20-50 paylines with bonus rounds offering free spins, pick-and-win games, and progressive multipliers.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Megaways Pokies:<\/strong> Revolutionary slot mechanics with dynamic reel structures changing every spin, providing between 324 and 117,649 winning combinations. These high-volatility games include cascading wins removing winning symbols and replacing them with new ones, unlimited win multipliers increasing with consecutive cascades, and bonus buys allowing instant access to free spin features.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Progressive Jackpot Pokies:<\/strong> Network-linked slots accumulating prize pools from players across multiple casinos, with jackpots frequently exceeding A$5 million. Popular titles include progressive networks with four-tiered jackpot systems (Mini, Minor, Major, Grand), random jackpot triggers activating on any spin regardless of bet size, and must-drop jackpots guaranteed to pay before reaching specific amounts.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Australian-Themed Pokies:<\/strong> Exclusive slots celebrating Australian culture featuring kangaroos, koalas, Great Barrier Reef imagery, Outback landscapes, and Aboriginal art-inspired designs. These locally-relevant games resonate with Aussie players through familiar symbols, slang terminology in bonus features, and references to iconic Australian locations and traditions.<\/li>\n<\/ul>\n\n<h3>Classic Table Games with Multiple Variations<\/h3>\n\n<p>Our table games collection includes over 300 variations of roulette, blackjack, baccarat, and poker, each offering distinct rules, betting structures, and strategic depth. Australian players appreciate our comprehensive selection accommodating both casual players learning basic strategies and experienced gamblers employing advanced techniques. Every table game displays its house edge percentage transparently, with most variants offering between 0.5% and 2.7% house advantage depending on rules and player decisions. Betting limits range from budget-friendly minimums of A$1 per hand up to high-roller maximums reaching A$10,000 per bet, ensuring accessibility for all bankroll sizes.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Blackjack Variations:<\/strong> Classic blackjack with 99.5% RTP when playing optimal basic strategy, European blackjack with dealer standing on soft 17, Atlantic City blackjack allowing late surrender, Spanish 21 removing tens but adding bonus payouts, and blackjack switch letting players swap cards between two hands. Side bets include perfect pairs, 21+3 poker hands, and insurance against dealer blackjack.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Roulette Options:<\/strong> European roulette with single zero offering 97.3% RTP, American roulette with double zero increasing house edge to 5.26%, French roulette featuring La Partage rule returning half your even-money bets when zero hits, and multi-wheel roulette spinning up to eight wheels simultaneously. Betting options include inside bets (straight, split, street, corner) and outside bets (red\/black, odd\/even, dozens, columns).<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Baccarat Games:<\/strong> Punto Banco baccarat with 98.94% RTP on banker bets, commission-free baccarat adjusting payouts instead of charging commission, squeeze baccarat adding dramatic card reveals, and mini-baccarat with lower table minimums. Side bets include player pair, banker pair, perfect pair paying 25:1, and tie bets offering 8:1 payouts.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Poker Variants:<\/strong> Three Card Poker with ante and play bets plus pair plus side bet, Caribbean Stud Poker featuring progressive jackpot reaching A$200,000+, Casino Hold'em head-to-head against dealer with 100.5% RTP including side bets, and Texas Hold'em Bonus with multiple betting rounds. Video poker machines include Jacks or Better, Deuces Wild, and Joker Poker with optimal strategy RTPs exceeding 99%.<\/li>\n<\/ul>\n\n<h3>Immersive Live Dealer Casino Experience<\/h3>\n\n<p>Looking for authentic casino atmosphere from your Australian home? Our live casino section streams over 150 tables in high-definition from professional studios, featuring English-speaking dealers interacting with players in real-time. Advanced streaming technology delivers crystal-clear video quality at 60 frames per second with minimal latency, creating genuinely immersive gambling experiences rivaling land-based casinos. Australian players enjoy exclusive tables operating during AEST timezone prime hours, with dealers trained to engage Aussie audiences through friendly banter and professional game management. Every live game undergoes continuous monitoring ensuring dealer accuracy, random card shuffling using automatic shuffle machines, and fair ball drops on roulette wheels verified by multiple camera angles.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Roulette Tables:<\/strong> Multiple European roulette wheels with professional croupiers spinning every 60-90 seconds, immersive roulette featuring multiple camera angles and slow-motion ball tracking, speed roulette completing rounds in 25 seconds for fast-paced action, and auto-roulette with automated wheels eliminating dealer wait times. Betting limits range from A$1 to A$5,000 per spin.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Blackjack Options:<\/strong> Standard blackjack tables with seven seats and 99.5% RTP, infinite blackjack accommodating unlimited players simultaneously, lightning blackjack adding random multipliers up to 25x on winning hands, and VIP blackjack tables with A$50 minimums and A$10,000 maximums. Side bets include 21+3, perfect pairs, and bust it progressive.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Baccarat Rooms:<\/strong> Classic baccarat with commission on banker wins, no commission baccarat with adjusted banker payouts, squeeze baccarat allowing dramatic card reveals building suspense, and speed baccarat completing hands in 27 seconds. Australian players appreciate our AEST-optimized tables operating during evening hours with native English-speaking dealers.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Game Shows:<\/strong> Entertainment-focused games combining gambling with television show formats, including wheel-spinning games with bonus rounds, monopoly-themed board games with augmented reality, bingo-lottery hybrids, and deal-making shows. These innovative games offer maximum wins exceeding 20,000x your bet with interactive bonus features and multiplier opportunities.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Poker Tables:<\/strong> Three Card Poker tables with professional dealers, Caribbean Stud Poker with progressive jackpots, Casino Hold'em head-to-head gameplay, and Ultimate Texas Hold'em with trips side bet. Native English-speaking dealers create welcoming atmosphere for Australian players, explaining rules and celebrating wins.<\/li>\n<\/ul>\n\n<h3>Mobile Gaming Optimized for Australian Players<\/h3>\n\n<p>Over 75% of our Australian players access our casino via mobile devices, which is why we've invested heavily in responsive mobile optimization ensuring flawless gameplay across smartphones and tablets. Our mobile platform requires no app downloads, functioning perfectly through mobile browsers including Safari, Chrome, and Firefox on both iOS and Android devices. Every game in our 4,000+ portfolio adapts seamlessly to portrait and landscape orientations, with touch-optimized controls replacing mouse clicks for natural mobile interaction. Australian players enjoy identical features, bonuses, and payment options on mobile as desktop, including live chat support, deposit capabilities, and withdrawal requests processed directly from smartphones.<\/p>\n\n<h3>Exclusive Games and Tournament Opportunities<\/h3>\n\n<p>We regularly negotiate exclusive game releases with software providers, offering Australian players first access to innovative titles unavailable elsewhere. These exclusive pokies and table games feature unique mechanics, generous bonus structures, and Australian-themed elements resonating with local audiences. Beyond individual gameplay, we host weekly tournaments with guaranteed prize pools reaching A$50,000, where Australian players compete on leaderboards accumulating points through qualifying spins and hands. Tournament formats include fastest time challenges, highest multiplier competitions, and cumulative wins contests. Top finishers receive cash prizes distributed automatically, with monthly championship events offering A$100,000+ total prize pools.<\/p>\n\n<h3>Responsible Gaming Tools for Australian Players<\/h3>\n\n<p>We take our commitment to responsible gambling seriously, implementing comprehensive tools helping Australian players maintain healthy gaming habits. Our platform includes mandatory deposit limits customizable daily, weekly, and monthly, preventing excessive spending beyond predetermined budgets. Loss limits track net losses over specified periods, temporarily suspending gameplay once thresholds are reached. Session time reminders alert players after continuous gaming sessions, encouraging breaks and reflection. Reality checks display time and money spent during sessions, promoting awareness of gambling duration and expenditure. Self-exclusion options range from 24-hour cooling-off periods to permanent account closure, with dedicated support assisting players experiencing gambling difficulties through partnerships with Australian gambling help organizations.<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Banking, Bonuses & Support for Aussie Players",
+                        "description": "<h2>Comprehensive Banking Solutions for Australian Casino Players<\/h2>\n\n<p>We've integrated Australia's most trusted payment methods ensuring instant deposits, secure transactions, and fast withdrawals processed directly to Australian bank accounts. Our banking infrastructure supports multiple currencies with primary focus on AUD transactions eliminating conversion fees and exchange rate losses. Australian players benefit from localized payment providers including POLi instant bank transfers connecting directly with major Australian banks, BPAY bill payment codes, bank wire transfers, and internationally accepted options like Visa, Mastercard, Skrill, Neteller, and cryptocurrency wallets. Every transaction processes through SSL 256-bit encrypted channels protecting financial data and personal information, with PCI-DSS compliance ensuring payment card security meets international standards. Our Anti Money Laundering protocols verify player identities preventing fraudulent activities while maintaining swift processing times for legitimate transactions.<\/p>\n\n<h3>Deposit Methods Optimized for Australian Accounts<\/h3>\n\n<p>Making your first deposit takes under 60 seconds using our streamlined banking interface. Australian players access instant deposit options processing funds immediately, allowing gameplay within moments of account registration. Minimum deposit requirements start from just A$20, making our casino accessible to casual players and budget-conscious gamblers. Maximum single deposits reach A$10,000 per transaction for high-rollers seeking substantial bankrolls, with higher limits available upon request through VIP account managers. We charge zero deposit fees on all payment methods, ensuring 100% of your deposited funds reach your casino balance available for wagering.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #d61c22;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Time<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Limits<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>POLi<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">A$20 - A$10,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1a1a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Bank Transfer<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">A$20 - A$10,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Visa\/Mastercard<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">A$20 - A$5,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1a1a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Skrill\/Neteller<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">A$20 - A$10,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Bitcoin<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">15 minutes<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">A$20 - A$50,000<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>POLi Instant Banking:<\/strong> Direct connection to your Australian bank account through secure POLi gateway, supporting Commonwealth Bank, Westpac, ANZ, NAB, and over 50 regional banks. No registration required, simply select your bank, login through their official portal, and authorize payment. Funds appear in your casino balance instantly with zero processing delays or fees.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bank Wire Transfers:<\/strong> Traditional bank transfers accepting payments from any Australian financial institution. Processing times vary between instant and 1-3 business days depending on your bank's policies. Ideal for larger deposits exceeding standard limits, with minimum A$50 and maximum A$50,000 per transaction. No fees charged by our casino, though your bank may apply standard wire transfer charges.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Credit and Debit Cards:<\/strong> Visa and Mastercard acceptance including credit cards, debit cards, and prepaid cards issued by Australian banks. Instant processing crediting your account immediately. 3D Secure authentication protects against unauthorized use. Limits range from A$20 minimum to A$5,000 maximum per single transaction, with multiple deposits permitted daily.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>E-Wallet Solutions:<\/strong> Skrill and Neteller e-wallets offering instant deposits with enhanced privacy, as casino transactions don't appear directly on bank statements. Australian players fund their e-wallet via bank transfer or card, then transfer funds to our casino instantly. E-wallets also facilitate faster withdrawals processed within 2-4 hours compared to standard banking timeframes.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Cryptocurrency Options:<\/strong> Bitcoin, Ethereum, and Litecoin deposits accepted for players preferring blockchain-based transactions. Crypto deposits offer enhanced anonymity, zero banking fees, and higher limits up to A$50,000 per transaction. Confirmation times vary by network congestion, typically 15-30 minutes. Exchange rate conversion applies based on current market rates at deposit time.<\/li>\n<\/ul>\n\n<h3>Fast Withdrawal Processing for Australian Winners<\/h3>\n\n<p>Withdrawing your winnings follows our streamlined process designed to deliver funds to Australian players as quickly as possible while maintaining security standards. Our standard withdrawal processing time ranges from 24 to 48 hours for most payment methods, with e-wallets offering fastest payouts within 2-4 hours. First-time withdrawals require identity verification through our KYC process, involving uploading government-issued photo ID, proof of address dated within three months, and payment method verification. Once initially verified, subsequent withdrawals process automatically without additional documentation. Minimum withdrawal amount starts at A$50, with maximum single withdrawals of A$5,000 for standard accounts and higher limits available for VIP members.<\/p>\n\n<h3>Generous Welcome Bonus and Promotional Offers<\/h3>\n\n<p>How do you claim your welcome bonus at Revolution Casino? New Australian players receive our generous 100% match bonus up to A$500 plus 200 free spins upon making their first qualifying deposit of minimum A$20. The bonus credits automatically within 5 minutes, with free spins allocated across popular pokie titles featuring Australian themes. Standard wagering requirements apply at 35x the bonus amount, meaning a A$100 deposit receiving A$100 bonus requires A$7,000 total wagering before withdrawal eligibility. Wagering contributions vary by game type: pokies contribute 100%, table games 10%, and live casino 5%. Free spins carry no wagering requirements with maximum winnings capped at A$100, credited as withdrawable cash.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Weekly Reload Bonuses:<\/strong> Existing players receive 50% reload bonus up to A$700 every weekend plus 50 free spins on featured pokies. Minimum qualifying deposit A$30, with same 35x wagering applying to bonus funds. Reload offers arrive via email every Friday, valid through Sunday midnight AEST, giving Australian players extended weekend gaming sessions with boosted bankrolls.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Cashback Promotions:<\/strong> Our weekly cashback program returns 15% of net losses up to A$3,000 every Monday, softening the impact of unlucky streaks. Casino cashback covers pokies and table games, while separate sports cashback offers 10% return up to A$500 on sports betting losses. Cashback credits as bonus funds with reduced 10x wagering requirement.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Casino Cashback:<\/strong> Exclusive 25% cashback up to A$200 on live dealer game losses, recognizing the higher stakes and engagement of live gaming. Calculated weekly from Monday to Sunday, credited every Tuesday morning. Live cashback requires minimum A$100 wagered during the eligibility period with 15x wagering on cashback amount.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>VIP Loyalty Program:<\/strong> Australian players automatically enter our tiered VIP program progressing through Bronze, Silver, Gold, Platinum, and Diamond levels based on cumulative wagering. Each tier unlocks exclusive benefits including personal account managers, higher withdrawal limits, faster payout processing, birthday bonuses, luxury gifts, and invitations to exclusive tournaments with A$100,000+ prize pools.<\/li>\n<\/ul>\n\n<h3>Professional Customer Support Available 24\/7<\/h3>\n\n<p>What support options do we offer Australian players? Our dedicated customer service team operates around the clock, 365 days yearly, ensuring assistance whenever needed regardless of Australian time zones. Live chat remains our most popular support channel, connecting you with knowledgeable English-speaking agents within 60 seconds average response time. Agents handle account queries, technical issues, bonus questions, payment assistance, and responsible gaming requests professionally and efficiently. Email support responds within 4-6 hours maximum, ideal for non-urgent inquiries requiring detailed explanations or documentation review. Our comprehensive FAQ section addresses 200+ common questions covering registration, deposits, withdrawals, bonuses, game rules, and technical troubleshooting.<\/p>\n\n<h3>Security Measures Protecting Australian Players<\/h3>\n\n<p>We've implemented military-grade security protocols safeguarding every aspect of your casino experience. Our SSL 256-bit encryption technology creates secure connections between your device and our servers, encrypting all transmitted data including login credentials, financial information, and personal details. This encryption standard matches those used by major Australian banks and government agencies, ensuring hackers cannot intercept sensitive information. Our servers undergo continuous monitoring detecting suspicious activities, unauthorized access attempts, and potential security threats. Regular third-party security audits verify our protective measures meet international standards, with penetration testing identifying and eliminating vulnerabilities before exploitation.<\/p>\n\n<h3>Responsible Gambling Commitment for Aussie Players<\/h3>\n\n<p>We recognize gambling addiction affects Australian families and communities, which is why we've partnered with Gambling Help Online and other Australian support organizations providing resources for problem gamblers. Our platform includes self-assessment tools helping players evaluate their gambling habits through standardized questionnaires. If concerns arise, we offer immediate access to counseling services, support group information, and professional treatment programs. Our self-exclusion system allows temporary breaks from 24 hours to 6 months, or permanent account closure for players requiring long-term intervention. During exclusion periods, we block account access, suppress all marketing communications, and prevent new account creation using the same personal details. We also provide reality checks displaying session duration and expenditure at configurable intervals, deposit limit options restricting spending over daily, weekly, or monthly periods, and loss limit settings pausing gameplay once thresholds are reached. Australian players struggling with gambling problems can contact the National Gambling Helpline 1800 858 858 for free, confidential support available 24\/7.<\/p>\n\n<h3>Mobile App and Instant Play Options<\/h3>\n\n<p>Our mobile-optimized platform delivers full casino functionality through mobile browsers without requiring app downloads, which proves especially convenient given app store restrictions on real-money gambling apps in Australia. Simply visit our website through your smartphone or tablet browser, login to your account, and access the complete game portfolio, banking options, and support services. The responsive design automatically adapts to your screen size whether using iPhone, iPad, Samsung, or any Android device. Mobile gameplay maintains identical RTP percentages, bonus eligibility, and winning potential as desktop, with touch controls optimized for natural mobile interaction. Australian players appreciate the convenience of playing favorite pokies during commutes, lunch breaks, or relaxing evenings without desktop computer requirements.<\/p>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "How do I claim my welcome bonus at Revolution Casino?",
+                            "answer": "Create your account and make your first deposit of minimum A$20 using POLi, bank transfer, or cards. Your 100% bonus up to A$500 plus 200 free spins credits automatically within 5 minutes. Wagering requirement is 35x bonus within 30 days. Contact our 24\/7 support via live chat for assistance.\n"
+                        },
+                        {
+                            "title": "What payment methods do you accept for Australian players?",
+                            "answer": "We accept POLi instant banking connecting to major Australian banks, bank wire transfers, Visa and Mastercard, e-wallets including Skrill and Neteller, and cryptocurrencies like Bitcoin. All deposits process instantly with zero fees, minimum A$20 and maximum A$10,000 per transaction for most methods.\n"
+                        },
+                        {
+                            "title": "How long do withdrawals take to Australian bank accounts?",
+                            "answer": "Standard withdrawals process within 24-48 hours to Australian bank accounts. E-wallets like Skrill and Neteller receive funds within 2-4 hours. First withdrawal requires identity verification through KYC documents. Minimum withdrawal is A$50, maximum A$5,000 per transaction for standard accounts.\n"
+                        },
+                        {
+                            "title": "Is Revolution Casino licensed and safe for Australian players?",
+                            "answer": "We operate with advanced SSL 256-bit encryption protecting 100% of transactions and personal data. Our gaming software undergoes regular independent audits ensuring RNG fairness. We comply with Anti Money Laundering regulations and implement responsible gaming tools including deposit limits and self-exclusion options.\n"
+                        },
+                        {
+                            "title": "Can I play live dealer games on my mobile phone?",
+                            "answer": "Yes, our entire live casino portfolio including roulette, blackjack, baccarat, and game shows streams perfectly on mobile devices. No app download required, simply access through your mobile browser on iPhone or Android. Touch-optimized controls provide natural mobile gameplay with identical features as desktop.\n"
+                        },
+                        {
+                            "title": "What documents do I need for account verification?",
+                            "answer": "First withdrawal requires government-issued photo ID like Australian driver's license or passport, proof of address dated within three months such as utility bill or bank statement, and payment method verification. Upload documents through your account dashboard. Verification completes within 24 hours typically.\n"
+                        },
+                        {
+                            "title": "Do you offer customer support in English language?",
+                            "answer": "Our customer support team operates 24\/7\/365 with native English-speaking agents available via live chat responding under 60 seconds average. Email support answers within 4-6 hours. Our comprehensive FAQ section covers 200+ common questions about games, bonuses, payments, and account management.\n"
+                        },
+                        {
+                            "title": "Are there any fees on deposits or withdrawals?",
+                            "answer": "We charge zero fees on all deposits and withdrawals, ensuring 100% of your funds remain available for gameplay and winnings reach your account fully. Your bank or payment provider may apply their standard transaction charges, but Revolution Casino never deducts fees from your deposits or payout amounts.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

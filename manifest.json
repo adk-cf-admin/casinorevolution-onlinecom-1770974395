@@ -1,0 +1,19 @@
+{
+  "name": "Revolution",
+  "short_name": "Revolution",
+  "theme_color": "",
+  "background_color": "#050505",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1770973388-favicon.svg",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
